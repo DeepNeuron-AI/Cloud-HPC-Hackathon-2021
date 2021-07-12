@@ -23,7 +23,7 @@ Pull request for Spack recipe changes:
 #### Compiler 1
 
 ```
-spack install <app>%<compiler1>
+spack install bookleaf-cpp%gcc@10.3.0
 ```
 
 ```
